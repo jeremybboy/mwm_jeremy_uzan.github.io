@@ -1,16 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Recommandation DJ App</title>
+    <title>Recommendation DJ App</title>
 </head>
 <body>
-    <h1>Welcome to the Recommendation DJ App!</h1>
-    <p>Select a track from the list below:</p>
-    <ul>
-        <li>Track 1</li>
-        <li>Track 2</li>
-        <li>Track 3</li>
-        <!-- Add more tracks here -->
-    </ul>
+    <h1>Recommendation DJ App</h1>
+    <form method="post">
+        <label for="track">Select a track from the list below:</label>
+        <select name="track" id="track">
+            {% for track in tracks %}
+                <option value="{{ track.track_id }}">{{ track.title }} - {{ track.artist }}</option>
+            {% endfor %}
+        </select>
+        <input type="submit" value="Submit">
+    </form>
+    {% if recommendations %}
+        <h2>Recommendations:</h2>
+        <ul>
+            {% for rec_track in recommendations %}
+                <li>{{ rec_track.title }} - {{ rec_track.artist }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
 </body>
 </html>
