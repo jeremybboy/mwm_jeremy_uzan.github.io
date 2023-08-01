@@ -1,5 +1,5 @@
 import json
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
@@ -54,10 +54,16 @@ def generate_recommendations(data, track_id):
         return recommended_tracks
     return []
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def index():
     data = load_data()
     data = reorganize_data(data)
+    
+    if request.method == 'POST':
+        selected_track_id = int(request.form['track'])
+        recommendations = generate_recommendations(data, selected_track_id)
+        return render_template('index.html', tracks=data["tracks"], recommendations=recommendations, selected_track_id=selected_track_id)
+    
     return render_template('index.html', tracks=data["tracks"])
 
 if __name__ == "__main__":
