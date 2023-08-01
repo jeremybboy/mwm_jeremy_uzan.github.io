@@ -1,5 +1,7 @@
 import json
+from flask import Flask, render_template
 
+app = Flask(__name__)
 
 def load_data():
     music_data = "music_data_set_(1).json"
@@ -52,31 +54,11 @@ def generate_recommendations(data, track_id):
         return recommended_tracks
     return []
 
-def main():
+@app.route('/')
+def index():
     data = load_data()
     data = reorganize_data(data)
-
-    print("Music Recommendations")
-    print("Available Tracks:")
-    show_tracks(data)
-
-    try:
-        while True:
-            selected_track_id = int(input("Choose a track (enter track ID) or 0 to exit: "))
-            if selected_track_id == 0:
-                print("Exiting...")
-                break
-
-            recommendations = generate_recommendations(data, selected_track_id)
-
-            if recommendations:
-                print("\nRecommendations:")
-                for rec_track in recommendations:
-                    print(f"{rec_track['title']} - {rec_track['artist']}")
-            else:
-                print("No recommendations found for the selected track.")
-    except ValueError:
-        print("Invalid input. Please enter a valid track ID.")
+    return render_template('index.html', tracks=data["tracks"])
 
 if __name__ == "__main__":
-    main()
+    app.run(debug=True)
