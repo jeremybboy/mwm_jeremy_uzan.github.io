@@ -1,0 +1,787 @@
+{
+	"tracks": [{
+			"track_id": 1,
+			"title": "BohemianRhapsody",
+			"artist": "Queen",
+			"album": "ANightattheOpera",
+			"year": 1975,
+			"tempo": 72,
+			"rhythm": "6/8",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 2,
+			"title": "BillieJean",
+			"artist": "MichaelJackson",
+			"album": "Thriller",
+			"year": 1983,
+			"tempo": 117,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 3,
+			"title": "IWillAlwaysLoveYou",
+			"artist": "WhitneyHouston",
+			"album": "TheBodyguard",
+			"year": 1992,
+			"tempo": 63,
+			"rhythm": "6/8",
+			"genre": "Ballad"
+		},
+		{
+			"track_id": 4,
+			"title": "EnterSandman",
+			"artist": "Metallica",
+			"album": "Metallica",
+			"year": 1991,
+			"tempo": 123,
+			"rhythm": "4/4",
+			"genre": "Metal"
+		},
+		{
+			"track_id": 5,
+			"title": "TaketheATrain",
+			"artist": "DukeEllington",
+			"album": "NeverNoLament",
+			"year": 1941,
+			"tempo": 140,
+			"rhythm": "4/4",
+			"genre": "Jazz"
+		},
+		{
+			"track_id": 6,
+			"title": "StairwaytoHeaven",
+			"artist": "LedZeppelin",
+			"album": "LedZeppelinIV",
+			"year": 1971,
+			"tempo": 63,
+			"rhythm": "6/8",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 7,
+			"title": "ShapeofYou",
+			"artist": "EdSheeran",
+			"album": "÷",
+			"year": 2017,
+			"tempo": 96,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 8,
+			"title": "WatermelonSugar",
+			"artist": "HarryStyles",
+			"album": "FineLine",
+			"year": 2019,
+			"tempo": 95,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 9,
+			"title": "BoogieWonderland",
+			"artist": "Earth,Wind&Fire",
+			"album": "IAm",
+			"year": 1979,
+			"tempo": 124,
+			"rhythm": "4/4",
+			"genre": "Disco"
+		},
+		{
+			"track_id": 10,
+			"title": "PurpleHaze",
+			"artist": "JimiHendrix",
+			"album": "AreYouExperienced",
+			"year": 1967,
+			"tempo": 68,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 11,
+			"title": "Thriller",
+			"artist": "MichaelJackson",
+			"album": "Thriller",
+			"year": 1982,
+			"tempo": 118,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 12,
+			"title": "BackinBlack",
+			"artist": "AC/DC",
+			"album": "BackinBlack",
+			"year": 1980,
+			"tempo": 96,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 13,
+			"title": "HotelCalifornia",
+			"artist": "Eagles",
+			"album": "HotelCalifornia",
+			"year": 1976,
+			"tempo": 75,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 14,
+			"title": "Yesterday",
+			"artist": "TheBeatles",
+			"album": "Help!",
+			"year": 1965,
+			"tempo": 104,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 15,
+			"title": "Don'tStopBelievin'",
+			"artist": "Journey",
+			"album": "Escape",
+			"year": 1981,
+			"tempo": 120,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 16,
+			"title": "LetitBe",
+			"artist": "TheBeatles",
+			"album": "LetitBe",
+			"year": 1970,
+			"tempo": 80,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 17,
+			"title": "SweetChildo'Mine",
+			"artist": "GunsN'Roses",
+			"album": "AppetiteforDestruction",
+			"year": 1987,
+			"tempo": 124,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 18,
+			"title": "MyHeartWillGoOn",
+			"artist": "CelineDion",
+			"album": "Let'sTalkAboutLove",
+			"year": 1997,
+			"tempo": 99,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 19,
+			"title": "UnderPressure",
+			"artist": "Queen&DavidBowie",
+			"album": "HotSpace",
+			"year": 1981,
+			"tempo": 116,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 20,
+			"title": "Thriller",
+			"artist": "AC/DC",
+			"album": "BackinBlack",
+			"year": 1980,
+			"tempo": 90,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 21,
+			"title": "IWillAlwaysLoveYou",
+			"artist": "WhitneyHouston",
+			"album": "TheBodyguard",
+			"year": 1992,
+			"tempo": 66,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 22,
+			"title": "StairwaytoHeaven",
+			"artist": "LedZeppelin",
+			"album": "LedZeppelinIV",
+			"year": 1971,
+			"tempo": 63,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 23,
+			"title": "BohemianRhapsody",
+			"artist": "Queen",
+			"album": "ANightattheOpera",
+			"year": 1975,
+			"tempo": 72,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 24,
+			"title": "BillieJean",
+			"artist": "MichaelJackson",
+			"album": "Thriller",
+			"year": 1982,
+			"tempo": 117,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 25,
+			"title": "NovemberRain",
+			"artist": "GunsN'Roses",
+			"album": "UseYourIllusionI",
+			"year": 1991,
+			"tempo": 80,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 26,
+			"title": "Imagine",
+			"artist": "JohnLennon",
+			"album": "Imagine",
+			"year": 1971,
+			"tempo": 72,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 27,
+			"title": "Livin'onaPrayer",
+			"artist": "BonJovi",
+			"album": "SlipperyWhenWet",
+			"year": 1986,
+			"tempo": 122,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 28,
+			"title": "LikeaRollingStone",
+			"artist": "BobDylan",
+			"album": "Highway61Revisited",
+			"year": 1965,
+			"tempo": 95,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 29,
+			"title": "Wonderwall",
+			"artist": "Oasis",
+			"album": "(What'stheStory)MorningGlory?",
+			"year": 1995,
+			"tempo": 87,
+			"rhythm": "4/4",
+			"genre": "Rock"
+		},
+		{
+			"track_id": 30,
+			"title": "SweetDreams(AreMadeofThis)",
+			"artist": "Eurythmics",
+			"album": "SweetDreams(AreMadeofThis)",
+			"year": 1983,
+			"tempo": 125,
+			"rhythm": "4/4",
+			"genre": "Pop"
+		},
+		{
+			"track_id": 31,
+			"artist": "TheBeatles",
+			"album": "RubberSoul",
+			"year": 1965,
+			"tempo": 115,
+			"rhythm": "Moderato",
+			"genre": "Rock"
+		}, {
+			"track_id": 32,
+			"artist": "Radiohead",
+			"album": "InRainbows",
+			"year": 2007,
+			"tempo": 128,
+			"rhythm": "Allegro",
+			"genre": "AlternativeRock"
+		}, {
+			"track_id": 33,
+			"artist": "DavidBowie",
+			"album": "Low",
+			"year": 1977,
+			"tempo": 118,
+			"rhythm": "Moderato",
+			"genre": "ArtRock"
+		}, {
+			"track_id": 34,
+			"artist": "Nirvana",
+			"album": "Nevermind",
+			"year": 1991,
+			"tempo": 116,
+			"rhythm": "Moderato",
+			"genre": "Grunge"
+		}, {
+			"track_id": 35,
+			"artist": "TheStrokes",
+			"album": "IsThisIt",
+			"year": 2001,
+			"tempo": 129,
+			"rhythm": "Allegro",
+			"genre": "IndieRock"
+		}, {
+			"track_id": 36,
+			"artist": "JoyDivision",
+			"album": "UnknownPleasures",
+			"year": 1979,
+			"tempo": 138,
+			"rhythm": "Allegro",
+			"genre": "Post-Punk"
+		}, {
+			"track_id": 37,
+			"artist": "DaftPunk",
+			"album": "Discovery",
+			"year": 2001,
+			"tempo": 124,
+			"rhythm": "Moderato",
+			"genre": "Electronic"
+		}, {
+			"track_id": 38,
+			"artist": "KendrickLamar",
+			"album": "ToPimpaButterfly",
+			"year": 2015,
+			"tempo": 117,
+			"rhythm": "Moderato",
+			"genre": "Hip-Hop"
+		}, {
+			"track_id": 39,
+			"artist": "TheRollingStones",
+			"album": "ExileonMainSt.",
+			"year": 1972,
+			"tempo": 113,
+			"rhythm": "Moderato",
+			"genre": "Rock"
+		}, {
+			"track_id": 40,
+			"artist": "LedZeppelin",
+			"album": "IV",
+			"year": 1971,
+			"tempo": 84,
+			"rhythm": "Largo",
+			"genre": "Rock"
+		}
+	],
+	"durations": [{
+			"track_id": 0,
+			"duration": 168
+		},
+		{
+			"track_id": 1,
+			"duration": 237
+		},
+		{
+			"track_id": 2,
+			"duration": 206
+		},
+		{
+			"track_id": 3,
+			"duration": 350
+		},
+		{
+			"track_id": 4,
+			"duration": 224
+		},
+		{
+			"track_id": 5,
+			"duration": 189
+		},
+		{
+			"track_id": 6,
+			"duration": 292
+		},
+		{
+			"track_id": 7,
+			"duration": 248
+		},
+		{
+			"track_id": 8,
+			"duration": 228
+		},
+		{
+			"track_id": 9,
+			"duration": 261
+		},
+		{
+			"track_id": 10,
+			"duration": 207
+		}, {
+			"track_id": 11,
+			"duration": 220
+		},
+		{
+			"track_id": 12,
+			"duration": 307
+		},
+		{
+			"track_id": 13,
+			"duration": 249
+		},
+		{
+			"track_id": 14,
+			"duration": 207
+		},
+		{
+			"track_id": 15,
+			"duration": 214
+		},
+		{
+			"track_id": 16,
+			"duration": 240
+		},
+		{
+			"track_id": 17,
+			"duration": 257
+		},
+		{
+			"track_id": 18,
+			"duration": 214
+		},
+		{
+			"track_id": 19,
+			"duration": 225
+		},
+		{
+			"track_id": 20,
+			"duration": 221
+		},
+		{
+			"track_id": 21,
+			"duration": 273
+		},
+		{
+			"track_id": 22,
+			"duration": 482
+		},
+		{
+			"track_id": 23,
+			"duration": 354
+		},
+		{
+			"track_id": 24,
+			"duration": 295
+		},
+		{
+			"track_id": 25,
+			"duration": 537
+		},
+		{
+			"track_id": 26,
+			"duration": 186
+		},
+		{
+			"track_id": 27,
+			"duration": 246
+		},
+		{
+			"track_id": 28,
+			"duration": 369
+		},
+		{
+			"track_id": 29,
+			"duration": 258
+		},
+		{
+			"track_id": 30,
+			"duration": 213
+		}, {
+			"track_id": 31,
+			"duration": 215
+		},
+		{
+			"track_id": 32,
+			"duration": 311
+		},
+		{
+			"track_id": 33,
+			"duration": 198
+		},
+		{
+			"track_id": 34,
+			"duration": 252
+		},
+		{
+			"track_id": 35,
+			"duration": 183
+		},
+		{
+			"track_id": 36,
+			"duration": 296
+		},
+		{
+			"track_id": 37,
+			"duration": 233
+		},
+		{
+			"track_id": 38,
+			"duration": 197
+		},
+		{
+			"track_id": 39,
+			"duration": 285
+		},
+		{
+			"track_id": 40,
+			"duration": 212
+		}
+	],
+	"recommendations": [{
+			"track_id": 1,
+			"recommendations": [
+				10,
+				26,
+				35
+			]
+		},
+		{
+			"track_id": 2,
+			"recommendations": [
+				14,
+				15,
+				21
+			]
+		},
+		{
+			"track_id": 3,
+			"recommendations": [
+				8,
+				16,
+				27
+			]
+		},
+		{
+			"track_id": 4,
+			"recommendations": [
+				6,
+				17,
+				36
+			]
+		},
+		{
+			"track_id": 5,
+			"recommendations": [
+				9,
+				19,
+				25
+			]
+		},
+		{
+			"track_id": 6,
+			"recommendations": [
+				4,
+				13,
+				37
+			]
+		},
+		{
+			"track_id": 7,
+			"recommendations": [
+				11,
+				20,
+				38
+			]
+		},
+		{
+			"track_id": 8,
+			"recommendations": [
+				3,
+				16,
+				27
+			]
+		},
+		{
+			"track_id": 9,
+			"recommendations": [
+				5,
+				19,
+				25
+			]
+		},
+		{
+			"track_id": 10,
+			"recommendations": [
+				1,
+				26,
+				35
+			]
+		},
+		{
+			"track_id": 11,
+			"recommendations": [
+				7,
+				20,
+				38
+			]
+		},
+		{
+			"track_id": 12,
+			"recommendations": [
+				4,
+				13,
+				37
+			]
+		},
+		{
+			"track_id": 13,
+			"recommendations": [
+				6,
+				12,
+				36
+			]
+		},
+		{
+			"track_id": 14,
+			"recommendations": [
+				2,
+				15,
+				21
+			]
+		},
+		{
+			"track_id": 15,
+			"recommendations": [
+				2,
+				14,
+				21
+			]
+		},
+		{
+			"track_id": 16,
+			"recommendations": [
+				3,
+				8,
+				27
+			]
+		},
+		{
+			"track_id": 17,
+			"recommendations": [
+				4,
+				6,
+				36
+			]
+		},
+		{
+			"track_id": 18,
+			"recommendations": [
+				7,
+				11,
+				20
+			]
+		},
+		{
+			"track_id": 19,
+			"recommendations": [
+				5,
+				9,
+				25
+			]
+		},
+		{
+			"track_id": 20,
+			"recommendations": [7, 11, 38]
+		},
+		{
+			"track_id": 21,
+			"recommendations": [2, 14, 15]
+		},
+		{
+			"track_id": 22,
+			"recommendations": [3, 8, 27]
+		},
+		{
+			"track_id": "22",
+			"recommendations": ["14", "16", "31"]
+		}, {
+			"track_id": "23",
+			"recommendations": ["14", "16", "31"]
+		},
+		{
+			"track_id": "24",
+			"recommendations": ["16", "31", "39"]
+		},
+		{
+			"track_id": "25",
+			"recommendations": ["16", "31", "39"]
+		},
+		{
+			"track_id": "26",
+			"recommendations": ["31", "39", "37"]
+		},
+		{
+			"track_id": "27",
+			"recommendations": ["31", "39", "37"]
+		},
+		{
+			"track_id": "28",
+			"recommendations": ["39", "37", "36"]
+		},
+		{
+			"track_id": "29",
+			"recommendations": ["39", "37", "36"]
+		},
+		{
+			"track_id": "30",
+			"recommendations": ["37", "36", "29"]
+		},
+		{
+			"track_id": "31",
+			"recommendations": ["37", "36", "29"]
+		},
+		{
+			"track_id": "32",
+			"recommendations": ["36", "29", "10"]
+		},
+		{
+			"track_id": "33",
+			"recommendations": ["36", "29", "10"]
+		},
+		{
+			"track_id": "34",
+			"recommendations": ["29", "10", "1"]
+		},
+		{
+			"track_id": "35",
+			"recommendations": ["29", "10", "1"]
+		},
+		{
+			"track_id": "36",
+			"recommendations": ["10", "1", "3"]
+		},
+		{
+			"track_id": "37",
+			"recommendations": ["10", "1", "3"]
+		},
+		{
+			"track_id": "38",
+			"recommendations": ["1", "3", "5"]
+		},
+		{
+			"track_id": "39",
+			"recommendations": ["1", "3", "5"]
+		},
+		{
+			"track_id": "40",
+			"recommendations": ["3", "5", "7"]
+		}
+	]
+}
